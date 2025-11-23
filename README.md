@@ -1,5 +1,5 @@
 # MBA Ing. Alexéi De La Cruz Peña  
-### CEO Summa Center Latam | Ingeniero de Sistemas | Consultor SAP S/4HANA | Data & Analytics | Conferencista Internacional
+### CEO Summa Center | Ingeniero de Sistemas | Consultor SAP | Data Engineering | Docente Universitario | EdTech Leader
 
 CEO y Cofundador de **Summa Center Latam**, especializado en formar talento en **Tecnologías de la Información, Analítica de Datos e Innovación Empresarial**. Lidero proyectos de **transformación digital, arquitectura de datos, analítica avanzada e implementación de SAP S/4HANA** para organizaciones que buscan escalar procesos, profesionalizar la gestión y tomar decisiones basadas en datos.
 
